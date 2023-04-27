@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "STCS2ASPR")(type "KiCad")(uri "/Users/michael/Library/Mobile Documents/com~apple~CloudDocs/Circuits/STCS2ASPR/STCS2ASPR.kicad_sym")(options "")(descr ""))
+  (lib (name "DLF162500LT-5028A1")(type "KiCad")(uri "/Users/michael/Library/Mobile Documents/com~apple~CloudDocs/Kicad Libs/DLF162500LT-5028A1/DLF162500LT-5028A1.kicad_sym")(options "")(descr ""))
+  (lib (name "RO Flow Counter-rescue")(type "KiCad")(uri "/Users/michael/Library/Mobile Documents/com~apple~CloudDocs/Circuits/RO Flow Counter/RO Flow Counter-rescue.kicad_sym")(options "")(descr ""))
+)

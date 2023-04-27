@@ -1,0 +1,23 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid f356eeb3-92bc-4e48-a5dc-6922f4ca9ffa)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "ZIGBEE_CONNECTED" (shape input) (at 70.0236 58.2463 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 7b143c97-b3f1-4126-8a2e-efacd24bb3d2)
+  )
+  (hierarchical_label "POWER_ON" (shape input) (at 69.85 46.99 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 85414301-14f7-4368-bea9-0b55d446d92f)
+  )
+  (hierarchical_label "FAULT" (shape input) (at 69.85 50.8 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 8e77882e-a43a-4e8e-963b-274defca3b06)
+  )
+)
